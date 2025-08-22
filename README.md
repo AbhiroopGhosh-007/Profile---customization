@@ -39,4 +39,4 @@ Currently, there are no blog posts available. Stay tuned!
 
 ## Connect with Me
 
-{"LinkedIn":"https://www.linkedin.com/in/abhiroop-ghosh-sde/"}
+[LinkedIn](https://www.linkedin.com/in/abhiroop-ghosh-sde/) [LeetCode](https://leetcode.com/u/abhiroopghosh007/)
